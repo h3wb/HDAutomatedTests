@@ -1,0 +1,20 @@
+{
+  "name": "ts_scripts",
+  "version": "1.0.0",
+  "description": "Selenium Scripts for HD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^2.20.0",
+    "jquery": "^2.2.0",
+    "selenium-server": "^2.48.3",
+    "selenium-webdriver": "^2.44.0"
+  },
+  "dependencies": {
+    "mocha": "^2.4.5"
+  }
+}
