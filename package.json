@@ -15,6 +15,6 @@
     "selenium-webdriver": "^2.44.0"
   },
   "dependencies": {
-    "mocha": "^2.4.5"
+    "mocha": "^2.4.5" 
   }
 }
