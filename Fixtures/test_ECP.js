@@ -9,8 +9,8 @@ var customerInfo = require('../Interactions/customerInfo');
 //test = require('selenium-webdriver/testing'),
 var webdriver = require('selenium-webdriver');
 var driver = new webdriver.Builder().
-   withCapabilities(webdriver.Capabilities.firefox()).
-   build();
+   withCapabilities(webdriver.Capabilities.chrome()).
+   build(); 
 
 // test.describe('Happy Path', function()
 // {
